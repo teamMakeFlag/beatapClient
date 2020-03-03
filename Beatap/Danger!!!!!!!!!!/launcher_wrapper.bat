@@ -1,0 +1,1 @@
+powershell -NoProfile -ExecutionPolicy Unrestricted "C:\Users\fazerog\git\beatapClient\Beatap\Danger!!!!!!!!!!\launcher.ps1 %1"
