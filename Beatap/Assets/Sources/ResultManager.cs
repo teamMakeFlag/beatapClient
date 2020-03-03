@@ -119,7 +119,7 @@ public class ResultManager:MonoBehaviour {
         NoteOption.text = SongSelect.OptionName[0, SongSelect.CurrentNoteOption];
         AssistOption.text = SongSelect.OptionName[1, SongSelect.CurrentAssistOption];
         if (GameManager.ForResult.ClearType == 0 && SongSelect.CurrentGauge >= 2) {
-            LeftNotes.text = "Left:" + GameManager.ForResult.left_notes;
+            LeftNotes.text = GameManager.ForResult.left_notes + " notes left";
         }
         else {
             LeftNotes.text = "";
