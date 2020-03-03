@@ -1673,7 +1673,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 0}
+  m_Sprite: {fileID: 21300000, guid: 0c95960065ad26249842b2a0cca28f66, type: 3}
   m_Type: 1
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -1724,7 +1724,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!224 &1404347346
 RectTransform:
   m_ObjectHideFlags: 0
@@ -2372,7 +2372,7 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls: []
   m_FontData:
-    m_Font: {fileID: 12800000, guid: 2131c5eaf891f3d47aed73c705960372, type: 3}
+    m_Font: {fileID: 12800000, guid: 3b5dab0020859da4fbf5fb61d3b6b467, type: 3}
     m_FontSize: 25
     m_FontStyle: 0
     m_BestFit: 0
@@ -2733,7 +2733,7 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls: []
   m_FontData:
-    m_Font: {fileID: 12800000, guid: 2131c5eaf891f3d47aed73c705960372, type: 3}
+    m_Font: {fileID: 12800000, guid: 3b5dab0020859da4fbf5fb61d3b6b467, type: 3}
     m_FontSize: 25
     m_FontStyle: 0
     m_BestFit: 0
