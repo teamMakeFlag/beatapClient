@@ -1399,8 +1399,8 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls: []
   m_FontData:
-    m_Font: {fileID: 12800000, guid: 14b358e1cb7569f42a0fa6f47703ca5b, type: 3}
-    m_FontSize: 95
+    m_Font: {fileID: 12800000, guid: 3b5dab0020859da4fbf5fb61d3b6b467, type: 3}
+    m_FontSize: 96
     m_FontStyle: 0
     m_BestFit: 0
     m_MinSize: 0
@@ -1627,7 +1627,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!224 &1199286952
 RectTransform:
   m_ObjectHideFlags: 0
